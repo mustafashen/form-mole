@@ -4,6 +4,7 @@
   "description": "multipart/form parser",
   "main": "dist/index.js",
   "types": "src/index.d.ts",
+  "repository": "https://github.com/mustafashen/form-mole",
   "scripts": {
     "build": "tsc"
   },
@@ -14,3 +15,4 @@
     "typescript": "^5.4.5"
   }
 }
+
