@@ -1,0 +1,16 @@
+{
+  "name": "form-mole",
+  "version": "1.0.0",
+  "description": "multipart/form parser",
+  "main": "dist/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "mustafasen@tuta.io",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "typescript": "^5.4.5"
+  }
+}
